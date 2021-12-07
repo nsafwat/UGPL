@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="19EE34FE2218385B4E4816F27DD4A2E35609C297">
+
+  <entryPoint>A2Gmod</entryPoint>
+
+  <name>UGPL</name>
+
+  <version>1.0</version>
+
+  <createdByMATLABRelease>(R2018a)</createdByMATLABRelease>
+
+  <GUID>fd01de88-32da-4b10-a106-f92611b07bfe</GUID>
+
+  <description>A tool to calculate Air2Ground Pathloss</description>
+
+  <author>
+    <name>Nour ElDin</name>
+    <contact>eng.nours@gmail.com</contact>
+    <organization></organization>
+  </author>
+
+  <supportedPlatforms/>
+
+  <requiredProducts/>
+
+  <numFiles>10</numFiles>
+
+  <created>2021-12-03T21:42:21Z</created>
+
+  <appEntries>
+    <appFile>/A2Gmod.mlapp</appFile>
+    <appFile>/plotCircle3D_Ax_clr.m</appFile>
+    <appFile>/A2G_model2_PL_h.m</appFile>
+    <appFile>/draw_R_h.m</appFile>
+    <appFile>/A2G_model1_PL_h.m</appFile>
+    <appFile>/A2G_draw_PL_h.m</appFile>
+    <appFile>/A2G_model2_R_h.m</appFile>
+    <appFile>/varycolor.m</appFile>
+    <appFile>/A2G_model1_R_h.m</appFile>
+    <appFile>/draw_PL_h.m</appFile>
+  </appEntries>
+
+</appProperties>
